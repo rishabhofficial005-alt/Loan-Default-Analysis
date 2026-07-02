@@ -281,5 +281,4 @@ Develop executive KPI scorecards.
 
 Rishabh Singh
 
-Computer Science Engineering Student | Aspiring Data Analyst | Business Intelligence Enthusiast
-
+Computer Science Engineering Student | Aspiring Data Analyst | Business Intelligence Enthusiast 
