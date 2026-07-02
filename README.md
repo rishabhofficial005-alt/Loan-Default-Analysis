@@ -181,6 +181,10 @@ Demonstrates database connectivity in Power BI.
 
 
 
+
+
+
+
 📁 Repository Structure
 Loan-Default-Analysis/
 │
@@ -195,6 +199,20 @@ Loan-Default-Analysis/
 │
 └── SQL/
     └── Database_Setup.sql
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
