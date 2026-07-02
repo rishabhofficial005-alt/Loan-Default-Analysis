@@ -71,6 +71,7 @@ Credit Score
 Number of Credit Lines
 Debt-to-Income Ratio
 Default Status
+
 🏗️ Project Architecture
                 Loan Dataset (CSV)
                         │
@@ -94,6 +95,10 @@ Default Status
                         │
                         ▼
       Business Insights & Decision Support
+      
+      
+      
+      
       🛠️ Technologies Used
 Technology	Purpose
 Microsoft Power BI	Dashboard Development
@@ -102,6 +107,9 @@ Power Query	Data Cleaning & Transformation
 DAX	Business Calculations
 Data Modeling	Relationship Management
 Microsoft Excel/CSV	Initial Dataset
+
+
+
 📊 Key Business Insights
 
 The dashboard helps answer several business-critical questions:
@@ -113,6 +121,10 @@ How have default rates changed over time?
 How do credit scores influence loan distribution?
 Which education level receives higher loan amounts?
 How does income relate to employment type and lending patterns?
+
+
+
+
 ⚙️ ETL Process
 
 The data preparation process includes:
@@ -125,6 +137,11 @@ Data Type Conversion
 Feature Engineering
 Data Validation
 Data Modeling
+
+
+
+
+
 📐 DAX Measures
 
 Several custom DAX measures were created, including:
@@ -141,6 +158,8 @@ Year-over-Year Default Growth
 Age Groups
 Income Brackets
 Credit Score Categories
+
+
 🗄️ SQL Server Integration
 
 Instead of directly importing the CSV into Power BI, the dataset was first stored in Microsoft SQL Server and then connected using the SQL Server connector.
@@ -160,6 +179,8 @@ Demonstrates database connectivity in Power BI.
 📈 Financial Risk Metrics
 <img width="649" height="370" alt="image" src="https://github.com/user-attachments/assets/270509e6-5049-4e92-9f9c-f1be83e59f56" />
 
+
+
 📁 Repository Structure
 Loan-Default-Analysis/
 │
@@ -174,6 +195,10 @@ Loan-Default-Analysis/
 │
 └── SQL/
     └── Database_Setup.sql
+
+
+
+
 🚀 Getting Started
 Clone the Repository
 git clone https://github.com/rishabhofficial005-alt/Loan-Default-Analysis.git
@@ -183,6 +208,9 @@ Open Loan Analysis.pbix.
 Connect to your SQL Server instance if prompted.
 Click Refresh to load the latest data.
 Explore the interactive dashboard using the filters and slicers.
+
+
+
 💡 Skills Demonstrated
 Business Intelligence
 Dashboard Design
@@ -197,6 +225,9 @@ Interactive Reporting
 Data Visualization
 Data Analysis
 Business Storytelling
+
+
+
 📈 Business Value
 
 This dashboard enables financial organizations to:
@@ -208,6 +239,9 @@ Monitor lending performance.
 Track loan portfolio trends.
 Support strategic lending decisions.
 Enhance operational reporting.
+
+
+
 📚 Learning Outcomes
 
 This project helped strengthen my practical knowledge of:
