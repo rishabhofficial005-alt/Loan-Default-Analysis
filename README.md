@@ -10,6 +10,8 @@ The project demonstrates a complete BI workflow by connecting Microsoft SQL Serv
 
 The dashboard enables financial institutions to monitor portfolio performance, identify high-risk customer segments, and support data-driven lending decisions.
 
+## Dataset
+The dataset used in this project is available here: [Loan_default.csv]https://drive.google.com/file/d/1IPu-5BD_UuvVRO2XxjJpAM8lsmYsbUAw/view?usp=sharing
 ## 🎯 Business Objectives
 
 - Analyze borrower demographics and financial profiles
