@@ -250,6 +250,7 @@ YearTotal LoansDefaultsDefault
 
 
 
+```
 Loan-Default-Analysis/
 │
 ├── README.md
@@ -257,8 +258,8 @@ Loan-Default-Analysis/
 ├── Loan_default.csv
 │
 ├── SQL/
-│   ├── Database_Setup.sql          ← cleaned schema (CREATE TABLE, conflict markers removed)
-│   └── Validation_Queries.sql      ← row count, null audit, duplicate check, default rate by year
+│   ├── Database_Setup.sql
+│   └── Validation_Queries.sql
 │
 └── Images/
     ├── Loan_Default_Overview.png
@@ -268,7 +269,7 @@ Loan-Default-Analysis/
     ├── SQL_Null_Audit.png
     ├── SQL_Duplicate_Check.png
     └── SQL_Default_Rate_By_Year.png
-
+```
 
 
 
