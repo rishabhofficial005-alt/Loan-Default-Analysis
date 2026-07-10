@@ -173,7 +173,10 @@ Instead of directly importing the CSV into Power BI, the dataset was first store
 - Uses a centralized database as the data source
 - Enables easy data refresh after database updates
 - Demonstrates database connectivity in Power BI
-  🔍 Data Validation (SQL Server)
+
+
+
+##🔍 Data Validation (SQL Server)
 
 Before building the Power BI dashboard, the dataset was validated directly against the SQL Server table to confirm data integrity and consistency. All queries are available in validation_queries.sql.
 
