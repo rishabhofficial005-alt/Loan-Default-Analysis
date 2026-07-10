@@ -242,6 +242,14 @@ YearTotal LoansDefaultsDefault
 ### 📈 Financial Risk Metrics
 <img width="649" height="370" alt="Financial Risk Metrics" src="https://github.com/user-attachments/assets/270509e6-5049-4e92-9f9c-f1be83e59f56" />
 
+
+
+
+
+
+
+
+
 Loan-Default-Analysis/
 │
 ├── README.md
@@ -260,6 +268,25 @@ Loan-Default-Analysis/
     ├── SQL_Null_Audit.png
     ├── SQL_Duplicate_Check.png
     └── SQL_Default_Rate_By_Year.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 ## 🚀 Getting Started
 
