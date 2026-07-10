@@ -219,7 +219,11 @@ Result: 0 duplicate records found.
 
 Cross-validated year-over-year default rates against the dashboard's "Default Rate (%) By Year" visual.
 YearTotal LoansDefaultsDefault 
+
+
 <img width="680" height="350" alt="image" src="https://github.com/user-attachments/assets/6f3c7d33-b965-4fae-8b56-91a3fa433727" />
+
+
 
 
 
