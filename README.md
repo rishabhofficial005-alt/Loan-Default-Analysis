@@ -188,6 +188,9 @@ MetricResultTotal Records255,347
 
 This matches the "Total Number of Loan" KPI (255.35K) shown in the Power BI dashboard.
 <img width="692" height="387" alt="image" src="https://github.com/user-attachments/assets/19cb9c5b-d49e-4e37-ae58-8e3932aa57bb" />
+
+
+
 2. Null / Data Quality Audit
 
 Checked key columns (LoanID, Age, Income, CreditScore, Default) for missing values.
@@ -196,16 +199,26 @@ Checked key columns (LoanID, Age, Income, CreditScore, Default) for missing valu
 
 No missing values found across critical fields.
 <img width="676" height="244" alt="image" src="https://github.com/user-attachments/assets/40f6f71f-84b0-4762-90f0-ecdeb9738b12" />
+
+
+
+
+
 3. Duplicate Record Check
 
 Verified no LoanID appears more than once in the dataset.
 
 Result: 0 duplicate records found.
 <img width="686" height="402" alt="image" src="https://github.com/user-attachments/assets/cf841428-40c1-47a5-b10b-be9c3258b1d8" />
+
+
+
+
+
 4. Default Rate by Year
 
 Cross-validated year-over-year default rates against the dashboard's "Default Rate (%) By Year" visual.
-YearTotal LoansDefaultsDefault Rate201342,7854,97311.62%201442,1224,84511.50%201542,5214,97611.70%201642,7055,01711.75%201742,3774,87511.50%201842,8374,96711.60%
+YearTotal LoansDefaultsDefault 
 <img width="680" height="350" alt="image" src="https://github.com/user-attachments/assets/6f3c7d33-b965-4fae-8b56-91a3fa433727" />
 
 
