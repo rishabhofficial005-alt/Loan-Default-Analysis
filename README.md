@@ -176,7 +176,7 @@ Instead of directly importing the CSV into Power BI, the dataset was first store
 
 
 
-##🔍 Data Validation (SQL Server)
+## 🔍 Data Validation (SQL Server)
 
 Before building the Power BI dashboard, the dataset was validated directly against the SQL Server table to confirm data integrity and consistency. All queries are available in validation_queries.sql.
 
