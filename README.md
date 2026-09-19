@@ -1,4 +1,4 @@
-# Loan-Default-Analysis
+# Loan Portfolio & Risk Intelligence Dashboard | Power BI, SQL Server, DAX
 
 An interactive Business Intelligence dashboard developed using Microsoft Power BI to analyze loan default patterns, borrower demographics, financial risk metrics, and lending trends. The project follows an enterprise-style BI workflow by connecting Power BI to Microsoft SQL Server, transforming data with Power Query, and creating advanced DAX measures for business insights.
 
